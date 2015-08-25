@@ -1,2 +1,2 @@
-# template-loader
+# webpack-template-loader
 Webpack template loader

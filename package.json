@@ -1,5 +1,5 @@
 {
-	"name": "template-loader",
+	"name": "webpack-template-loader",
 	"version": "1.0.0",
 	"description": "webpack template loader",
 	"main": "index.js",
@@ -8,14 +8,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/victorwpbastos/template-loader.git"
+		"url": "git+https://github.com/victorwpbastos/webpack-template-loader.git"
 	},
 	"author": "Victor Bastos - victorwpbastos@gmail.com",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/victorwpbastos/template-loader/issues"
+		"url": "https://github.com/victorwpbastos/webpack-template-loader/issues"
 	},
-	"homepage": "https://github.com/victorwpbastos/template-loader#readme",
+	"homepage": "https://github.com/victorwpbastos/webpack-template-loader#readme",
 	"peerDependencies": {
 		"handlebars" : "^3.0.3"
 	}
